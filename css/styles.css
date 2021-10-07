@@ -10,10 +10,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
- @font-face {
-   font-family: 'cookie';
-   src: url(../assets/CookieRun\ Regular.ttf) format('truetype');
- }
+
 :root {
   --bs-blue: #1D809F;
   --bs-indigo: #6610f2;
