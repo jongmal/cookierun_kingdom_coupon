@@ -12,7 +12,7 @@
  */
  @font-face {
    font-family: 'cookie';
-   src: url(../assets/CookieRun\ Regular.ttf);
+   src: url(../assets/CookieRun\ Regular.ttf) format('truetype');
  }
 :root {
   --bs-blue: #1D809F;
